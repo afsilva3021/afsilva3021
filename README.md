@@ -5,7 +5,7 @@
 [![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/lexx3021/)
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=afsilva3021&show_icons=true&theme=dracula)
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=afsilva3021&show_icons=true&theme=gruvbox)
 
 <div>
 <h2>Tecnologias que eu uso no meu dia</h2> 
