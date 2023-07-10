@@ -23,5 +23,7 @@
     <img align="" alt="typeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img align="" alt="https://img.shields.io/packagist/dependency-v/:user/:repo/:dependency"/>
+"
 </div><br/>
 Apaixonado por tecnologia, e gosto de mostra como atecnologia pode mudar a vida de umas pessoas e facilitar pra outras.
