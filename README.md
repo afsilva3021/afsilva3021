@@ -13,7 +13,6 @@
 <div style="display: inline_block">
     <img align="" alt="postgresql" src="https://img.shields.io/badge/Postgresql-Space%20%20?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=%234169E1"/>
     <img align="" alt="mysql" src="https://img.shields.io/badge/Mysql-Space%20%20?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=%234479A1"/>
-    <img align="" alt="dotnet" src="https://img.shields.io/badge/Dotnet-Space%20%20?style=for-the-badge&logo=.net&logoColor=white&logoSize=auto&color=%23512BD4"/>
     <img align="" alt="PHP" src="https://img.shields.io/badge/php-563D7C?style=for-the-badge&logo=php&logoSize=auto&logoColor=#777BB4"/>
     <img align="" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +24,6 @@
     <img align="" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="" border-radius alt="debian" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
     <img align="" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-    <img align="" alt="centos" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
     <img align="" alt="fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/><br/><hr/>
     
 </div><br/>
