@@ -1,7 +1,7 @@
 ### Olá! eu sou Alex Felix
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/alex-felix-b89345207/)
+)]([https://www.linkedin.com/in/alex-felix-b89345207/](https://www.linkedin.com/in/alex-felix-franca?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afsilva3021&show_icons=true&theme=gruvbox)
 
