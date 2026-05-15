@@ -8,7 +8,11 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afsilva3021&show_icons=true&theme=gruvbox)
 
 <div>
-<h2>Tecnologias que eu uso no meu dia</h2> 
+<h2>Tecnologias que eu uso no meu dia</h2>
+    <p>
+        Desenvolvedor focado em PHP, Python, JavaScript e automações, com experiência em integração de sistemas, ERP TOTVS Protheus, desenvolvimento web e soluções voltadas para produtividade.
+        Apaixonado por tecnologia, automação de processos e desenvolvimento de aplicações que realmente ajudam pessoas e empresas no dia a dia.
+    </p>
 </div>
 <div style="display: inline_block">
     <img align="" alt="postgresql" src="https://img.shields.io/badge/Postgresql-Space%20%20?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=%234169E1"/>
