@@ -1,32 +1,34 @@
-### Olá! eu sou Alex Felix
+# Olá, eu sou Alex Felix! 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]([https://www.linkedin.com/in/alex-felix-b89345207/](https://www.linkedin.com/in/alex-felix-franca?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+Sou desenvolvedor focado em PHP, JavaScript, C# e automação de processos.
+
+Tenho experiência com integração de sistemas, ERP TOTVS Protheus, desenvolvimento web e criação de soluções voltadas para produtividade. Gosto de transformar necessidades do dia a dia em aplicações que ajudam pessoas e empresas.
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-felix-franca)
+
+## Tecnologias e ferramentas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-0C9ABE?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+## Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=afsilva3021&show_icons=true&theme=gruvbox)
-
-<div>
-<h2>Tecnologias que eu uso no meu dia</h2>
-    <p>
-        Desenvolvedor focado em PHP, Python, JavaScript e automações, com experiência em integração de sistemas, ERP TOTVS Protheus, desenvolvimento web e soluções voltadas para produtividade.
-        Apaixonado por tecnologia, automação de processos e desenvolvimento de aplicações que realmente ajudam pessoas e empresas no dia a dia.
-    </p>
-</div>
-<div style="display: inline_block">
-    <img align="" alt="postgresql" src="https://img.shields.io/badge/Postgresql-Space%20%20?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto&color=%234169E1"/>
-    <img align="" alt="mysql" src="https://img.shields.io/badge/Mysql-Space%20%20?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&color=%234479A1"/>
-    <img align="" alt="PHP" src="https://img.shields.io/badge/php-563D7C?style=for-the-badge&logo=php&logoSize=auto&logoColor=#777BB4"/>
-    <img align="" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><br/>
-    <img align="" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="" alt="typeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="" border-radius alt="debian" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
-    <img align="" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-    <img align="" alt="fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/><br/><hr/>
-    
-</div><br/>
-Apaixonado por tecnologia, e gosto de mostra como atecnologia pode mudar a vida de umas pessoas e facilitar pra outras.
