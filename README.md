@@ -56,6 +56,9 @@ Port em Rust de uma engine open source do Resident Evil 2, com renderização em
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**ERP**
+
 ![TOTVS Protheus](https://img.shields.io/badge/TOTVS%20Protheus-00A6CE?style=flat-square)
 
 **Front-end (quando preciso)**
